@@ -1,4 +1,4 @@
 sidekick
 ========
 
-A mobile app CSS framework built with Jeet Framework.
+A lightweight, themeable, hybrid app CSS framework.
